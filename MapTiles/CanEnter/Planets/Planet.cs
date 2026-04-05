@@ -1,4 +1,4 @@
-public abstract class Planet
+public abstract class Planet : EnterebleTile
 {
     int Resources;
     string name;

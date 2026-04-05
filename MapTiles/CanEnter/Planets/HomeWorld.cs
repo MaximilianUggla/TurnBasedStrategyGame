@@ -1,4 +1,4 @@
-public class HomeWorld
+public class HomeWorld : Planet
 {
     Faction belongsTo;
     Faction currentOwner;
