@@ -147,3 +147,14 @@ Unity/Galaxy Interregnum/Packages/
 Unity/Galaxy Interregnum/ProjectSettings/
 Unity/Galaxy Interregnum/Temp/
 Unity/Galaxy Interregnum/UserSettings/
+Unity/Galaxy Interregnum/Assets/Scenes/
+Unity/Galaxy Interregnum/Assets/Settings/
+Unity/Galaxy Interregnum/Assets/TutorialInfo/
+
+*.meta
+*.asset
+*.slnx
+extensions.json
+launch.json
+settings.json
+InputSystem_Actions.inputactions
