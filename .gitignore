@@ -139,3 +139,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+*.csproj
+Unity/Galaxy Interregnum/Library/*
+Unity/Galaxy Interregnum/Logs/*
+Unity/Galaxy Interregnum/Packages/*
+Unity/Galaxy Interregnum/ProjectSettings/*
+Unity/Galaxy Interregnum/Temp/*
+Unity/Galaxy Interregnum/UserSettings/*
